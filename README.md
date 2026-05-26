@@ -53,7 +53,7 @@ def analyze_sentiment(text):
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/JanVichaar.git
+git clone https://github.com/VivekAggarwal07/JanVichaar.git
 cd JanVichaar
 ```
 2. Install Dependencies
